@@ -141,7 +141,6 @@ const Customer = () => {
         const filterInfo = userData.filter(userData => userData.page_number === count);
         setInfo(filterInfo[0].data);
     }
-
     return (
         <div>
             <section id="innerpage" className="innerpage inventoryPage">
