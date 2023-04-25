@@ -1,0 +1,423 @@
+@media only screen and (max-width: 1399px) {}
+
+@media only screen and (max-width: 1199px) {
+  .hero__search__form {
+    width: 450px;
+    margin-right: 55px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .hero__search__form {
+    width: 450px;
+    margin-right: 55px;
+  }
+
+  .hero__search__phone {
+    display: none;
+  }
+
+  .hero__search__form form button {
+    padding: 0px 12px;
+  }
+
+  .hero__search__form form input {
+    font-size: 14px;
+    padding-left: 20px;
+  }
+
+  .hero__search__form form .hero__search__categories {
+    width: 28%;
+    font-size: 14px;
+    padding-left: 2px;
+    padding-top: 13px;
+  }
+
+  #topbar ul.navigation li {
+    padding: 0px 11px;
+  }
+
+  .banner-content h1 {
+    font-size: 46px;
+  }
+
+  .banner-content p.off {
+    font-size: 32px;
+  }
+
+  .spec-box-cont .icon-box {
+    width: 50px;
+    height: 50px;
+    margin-right: 8px;
+    font-size: 22px;
+  }
+
+  .spec-box-cont h6 {
+    font-size: 16px;
+  }
+
+  .spec-box-cont p {
+    font-size: 12px;
+  }
+
+  #trending-sub .content-02 {
+    bottom: 19%;
+  }
+
+  #trending-sub .content-01 {
+    top: 48% !important;
+  }
+
+  .footer-cu-sec-align,
+  .footer-Links-sec-align {
+    justify-content: start;
+  }
+
+  .leftsidebar {
+    margin-bottom: 20px;
+  }
+
+  .innerRight {
+    padding: 0px;
+  }
+
+  #special-sec .content-01 {
+    bottom: 35px;
+  }
+
+  #special-sec .outer-box {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero__search__form {
+    width: 292px;
+    margin-right: 0px;
+  }
+
+  .hero__search__form form .hero__search__categories {
+    width: 30%;
+    font-size: 11px;
+    padding-left: 11px;
+    padding-top: 7px;
+  }
+
+  .hero__search__form form input {
+    font-size: 12px;
+    padding-left: 6px;
+    width: 37%;
+  }
+
+  #topbar {
+    height: 280px;
+    font-size: 16px;
+    align-items: center;
+  }
+
+  #topbar ul.navigation li {
+    padding: 6px 11px;
+  }
+
+  #topbar ul.navigation {
+    display: block;
+    text-align: center;
+    padding: 0;
+  }
+
+  .banner-content h1 {
+    font-size: 30px;
+  }
+
+  .banner-content h1 br {
+    display: none;
+  }
+
+  .commen-heading h2 {
+    font-size: 24px;
+  }
+
+  #trending-sub .outer-box img {
+    margin-bottom: 25px;
+  }
+
+  #trending-sec {
+    margin-bottom: 60px;
+  }
+
+  #trending-sub {
+    padding: 60px 0px;
+  }
+
+  .innerpage .container {
+    padding: 16px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .hero__search__form {
+    width: 246px;
+  }
+
+  .hero__search__form form .hero__search__categories {
+    width: 35%;
+    font-size: 10px;
+    padding-left: 4px;
+    padding-top: 16px;
+  }
+
+  .hero__search__form form input {
+    font-size: 12px;
+    padding-left: 6px;
+    width: 37%;
+  }
+
+  .hero__search__form form button {
+    padding: 0px 12px;
+    font-size: 12px;
+  }
+
+  .banner-content h1 {
+    font-size: 22px;
+  }
+
+  .banner-content p.off {
+    font-size: 18px;
+  }
+
+  .main-button a {
+    padding: 8px 8px;
+    font-size: 12px;
+  }
+
+  .spec-box-cont {
+    padding: 10px;
+  }
+
+  ul#pills-tab {
+    padding: 5px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .show>.nav-link {
+    padding: 8px;
+    font-size: 12px;
+  }
+
+  .nav-pills .nav-link {
+    font-size: 12px;
+  }
+
+  .btn-primary {
+    padding: 8px 8px;
+  }
+
+  #trending-sub .content-02 {
+    bottom: 16%;
+  }
+
+  #trending-sub .content-01 {
+    top: 50% !important;
+  }
+
+  #trending-sub {
+    padding: 40px 0px;
+  }
+
+  #special-sec {
+    margin: 40px 0px;
+  }
+
+  #special-sec .content {
+    top: 70px;
+  }
+
+  .navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .innerpage .container {
+    padding: 28px;
+  }
+
+  .btn-success {
+    padding: 6px 13px;
+    font-size: 14px;
+  }
+
+  .detils p.Title {
+    font-size: 10px;
+  }
+
+  .detils p.stock {
+    font-size: 10px;
+  }
+
+  .product-detail .btn-success {
+    padding: 4px 8px;
+  }
+
+  img.header-logo {
+    width: 30%;
+  }
+
+  #trending-sec .card {
+    margin-bottom: 16px;
+  }
+
+  #trending-sec {
+    margin-bottom: 40px;
+  }
+
+  .trending-tabs {
+    margin: 10px 0px;
+  }
+
+  #testimonial-sec {
+    background: #ffffff;
+    margin-bottom: 40px;
+  }
+
+  .footer-bt-sec p {
+    text-align: center;
+  }
+}
+
+
+@media only screen and (max-width: 420px) {
+
+  .hero__search__form {
+    width: 196px;
+    height: 30px;
+  }
+
+  .hero__search__form form .hero__search__categories {
+    width: 34%;
+    font-size: 8px;
+    padding-left: 4px;
+    padding-top: 10px;
+  }
+
+  .hero__search__form form .hero__search__categories:after {
+    right: -5px;
+    top: 8px;
+  }
+
+  .hero__search__form form input {
+    font-size: 8px;
+    padding-left: 12px;
+    height: 20px;
+  }
+
+  .hero__search__form form button {
+    padding: 0px 6px;
+    font-size: 10px;
+    height: 30px;
+  }
+
+  ul#pills-tab {
+    padding: 5px;
+    width: 104px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .fliterBlock {
+    display: inline-block;
+  }
+
+  .fliterBlock .shotby {
+    padding-left: 0px;
+  }
+
+  .fliterBlock .right a {
+    margin-left: 0px;
+  }
+
+  .detils p.Title {
+    font-size: 10px;
+    width: 200%;
+  }
+
+  .btn-success {
+    padding: 4px 10px;
+    font-size: 12px;
+  }
+
+  .col-auto {
+    width: 125%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  img.header-logo {
+    width: 26%;
+  }
+
+  .btn-primary {
+    padding: 4px 10px;
+  }
+
+  .spec-box-cont p {
+    font-size: 10px;
+  }
+
+  .spec-box-cont h6 {
+    font-size: 12px;
+  }
+
+  .spec-box-cont .icon-box {
+    width: 44px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  .spec-box-cont {
+    padding: 8px;
+  }
+
+  #topbar ul.navigation li {
+    padding: 9px 11px;
+    font-size: 12px;
+  }
+  p.card-text {
+    margin-bottom: 2px;
+}
+.card-amount-sec a {
+  font-size: 12px;
+  padding: 8px 12px;
+}
+#special-sec .icon-box {
+  display: flex;
+  align-items: center;
+  margin-top: 18px;
+}
+#special-sec i {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  margin-right: 14px;
+}
+.btn-primary-buy {
+  font-size: 12px;
+  padding: 8px 12px;
+}
+#trending-sec .card-amount-sec {
+  margin-bottom: 0px;
+}
+p.offer {
+  margin-bottom: 5px;
+}
+.product-detail img.detail-pic {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+#contact-sec .icon-box {
+  width: 90px;
+  height: 90px;
+}
+}
